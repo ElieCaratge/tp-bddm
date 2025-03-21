@@ -1,0 +1,1 @@
+docker run -p 4040:4040 --hostname localhost -it apache/spark /opt/spark/bin/pyspark
